@@ -1,0 +1,9 @@
+.private-nav .link{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+    .destination-img{
+        height: 300px;
+    }
+}

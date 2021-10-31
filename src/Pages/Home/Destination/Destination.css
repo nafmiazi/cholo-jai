@@ -1,0 +1,22 @@
+.custom-destination-card{
+    overflow: hidden;
+    border-radius: 10px;
+}
+.custom-body{
+    z-index: 1;
+}
+.custom-destination-card img{
+    transition: 1s;
+}
+
+.custom-destination-card img:hover{
+    transform: scale(1.1);
+}
+
+.custom-button{
+    background: #ff416c;
+}
+
+.custom-color{
+    color: #ff416c
+}
